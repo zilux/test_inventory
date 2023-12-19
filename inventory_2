@@ -1,4 +1,5 @@
 # West inventory original contents
+[grp2]
 host4 account_alias=product_dev
 host6 account_alias=product_dev state=shutdown
 host5 account_alias=sustaining state=shutdown
