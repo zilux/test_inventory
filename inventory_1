@@ -1,0 +1,3 @@
+host1 account_alias=product_dev
+host2 account_alias=product_dev state=shutdown
+host3 account_alias=sustaining
